@@ -1,6 +1,0 @@
-#Virtual box installation with 3 VMs
-# 1 master and 2 worker
-# Using kubeadm for install
-
-
-

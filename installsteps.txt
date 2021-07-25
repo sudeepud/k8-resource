@@ -94,3 +94,8 @@ Then you can join any number of worker nodes by running the following on each as
 
 kubeadm join 20.0.0.220:6443 --token 7vypbf.237x4bfv7zjjq5v7 \
 	--discovery-token-ca-cert-hash sha256:41977973ddbcc0fd6b1929077ba0ad2f220ef752ca39c9eb97cb95914872d2e8 
+
+#Setting up ingress controller
+
+https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-manifests/
+

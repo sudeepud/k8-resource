@@ -11,4 +11,4 @@ spec:
   storageClassName: local-storage
   selector:
     matchLabels:
-      id: "node1-disk1"	
+      id: "worker1-disk1"	
